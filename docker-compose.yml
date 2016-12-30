@@ -1,6 +1,6 @@
 PostgreSQL:
   restart: always
-  image: nogsantos/postgresql:9.5-4
+  image: nogsantos/postgresql
   ports:
     - "5432:5432"
   environment:
