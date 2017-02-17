@@ -1,7 +1,5 @@
 # PostgreSQL v9.5
 
-inspired and forked from [@sameersbn](https://github.com/sameersbn)
-
 - [Introduction](#introduction)  
 - [Getting started](#getting-started)
   - [Installation](#installation)
@@ -360,3 +358,5 @@ For debugging and maintenance purposes you may want access the containers shell.
 ```bash
 docker exec -it postgresql bash
 ```
+
+inspired and forked from [@sameersbn](https://github.com/sameersbn)
